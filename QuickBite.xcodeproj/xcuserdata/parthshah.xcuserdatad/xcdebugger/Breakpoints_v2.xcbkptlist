@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A6CE5C45-8584-4D92-9213-8216DEE77AFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85834F17-6D39-49A4-B634-E6DA5D35098A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuickBite/Controllers/OrdersViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "detailsButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85834F17-6D39-49A4-B634-E6DA5D35098A - 842ed8c14ac55bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickBite.OrdersViewController.detailsButtonPressed(Any) -&gt; ()"
+                  moduleName = "QuickBite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parthshah/Documents/parth_projects/ios_projects/ITSSem3/QuickBite/QuickBite/Controllers/OrdersViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "85834F17-6D39-49A4-B634-E6DA5D35098A - 842ed8c14ac55bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuickBite.OrdersViewController.detailsButtonPressed(Any) -&gt; ()"
+                  moduleName = "QuickBite"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/parthshah/Documents/parth_projects/ios_projects/ITSSem3/QuickBite/QuickBite/Controllers/OrdersViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BDDAF60-C4AF-4D81-A30C-F7F312923256"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuickBite/UIComponents/OrderHistroyTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "detailsButtonPre(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
