@@ -42,8 +42,12 @@ Have questions or feedback? We'd love to hear from you! Contact us at parthshah.
 
 <img width="458" alt="Screenshot 2024-03-03 at 5 36 02 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/aca29054-f604-4d30-ba02-ec29800b6bdf">
 
-<img width="458" alt="Screenshot 2024-03-03 at 5 36 14 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/2e65e0a8-bb6d-4ca4-9021-5d8f7d51b3db"><img width="458" alt="Screenshot 2024-03-0<img width="458" alt="Screenshot 2024-03-03 at 5 37 09 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/df5885e0-fc4b-4e04-a79a-8456b4e22445">
+<img width="458" alt="Screenshot 2024-03-03 at 5 36 14 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/2e65e0a8-bb6d-4ca4-9021-5d8f7d51b3db">
+
+<img width="458" alt="Screenshot 2024-03-0
 3 at 5 36 50 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/31f77a27-2fca-4d4d-8720-518c4cbdd705">
+
+<img width="458" alt="Screenshot 2024-03-03 at 5 37 09 PM" src="https://github.com/parthshah921/QuickBite/assets/109717656/df5885e0-fc4b-4e04-a79a-8456b4e22445">
 
 
 
